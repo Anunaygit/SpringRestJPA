@@ -84,5 +84,5 @@ public class EmpController {
 	public List<Employee> customMethod(String desig){
 		return dao.myCustomQuery(desig);
 	}
-	
+	//adding line for git update
 }
