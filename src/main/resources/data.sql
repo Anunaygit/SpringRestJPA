@@ -1,0 +1,7 @@
+insert into EMPLOYEE values(25, 11, 25000, 'Raju', 'Tester')
+insert into EMPLOYEE values(35, 22, 55000, 'Pratibha', 'Programmer')
+insert into EMPLOYEE values(28, 33, 45000, 'jagdish', 'Tester')
+insert into EMPLOYEE values(44, 44, 32000, 'Mamta', 'Manager')
+insert into EMPLOYEE values(33, 55, 11000, 'Puja', 'Programmer')
+insert into EMPLOYEE values(52, 66, 43000, 'Mahesh', 'Manager')
+insert into EMPLOYEE values(22, 77, 80000, 'Puneet', 'Programmer')
